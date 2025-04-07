@@ -1,7 +1,6 @@
-import List from './List.jsx'
-
+import MyComponent from './MyComponent.jsx'
 function App() {
-  return(<List />);
+  return(<MyComponent/>);
   
 }
 
